@@ -4,9 +4,9 @@ Nome        : Antonio Callegher Gandini Giani
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1110
 Data        : 30/09/2026
-Objetivo    : 
-Dificuldade : Saber como checar os blocos 3x3
-Uso de IA   : Usei para checar os blocos 3x3
+Objetivo    : Uma pilha de cartas com 1 no topo que vai até n (na parte de baixo do baralho), seguindo a sequência joga a de cima fora e a proxima qu está no topo coloca em baixo. O aloritimo deve dizer quais foram descartadas e qual sobrou. Usando pilha encadeada.
+Dificuldade : 
+Uso de IA   : 
 -------------------------------------------------------------------------- */
 
 
